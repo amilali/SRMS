@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background: rgba(235, 163, 7, 0.589);
+color: linear-gradient(48deg, rgba(239,131,13,0.6491690646396594) 0%, rgba(255,227,0,0.5311915365497717) 100%);
+	background-image:url(images/a.png);
+	background-repeat: no-repeat;
+	background-size: 800px;
+	margin:0px;
+	
+}
+div{
+	float: right;
+	padding: 30px;
+	margin-top: 100px;
+	margin-right: 100px;
+}
+
+
+
+
+
+.head
+{
+	font-family:"Trebuchet MS";
+	font-size:40px;
+	color:#FFF;
+	margin-left:50px;
+
+}
+
+.hr
+{
+	width:80%;
+	height:5px;
+	border-radius:100px;
+	background-color:#FFF;
+}
+
+.subhead
+{
+	font-family:"Segoe UI";
+	color:rgb(0, 0, 0);
+	font-size:24px;
+	text-decoration:underline;
+}
+
+
+.labels
+{
+	font-family:"Segoe UI";
+	color:#FFF;
+	font-size:16px;
+	font-style:italic;
+	backdrop-filter: blur(2px);backdrop-filter: brightness(60%);
+	
+}
+
+.fields
+{
+	font-family:"Segoe UI";
+	font-size:14px;
+	padding:2px 5px;
+	color:rgb(3, 15, 15);
+	background-color:transparent;
+	border:1px solid #000000;
+	border-radius:5px;
+	
+}
+.design
+{
+	background-color:transparent;
+	border:1px solid #040f0f;
+	border-radius:5px;
+	padding:10px 10px;
+	box-shadow:0px 0px 80px #854b00;
+	width: 290px;
+	
+}
+a.link:link{text-decoration:none;font-family:"Trebuchet MS";font-size:14px;color:#000000;}
+a.link:active{text-decoration:none;font-family:"Trebuchet MS";font-size:14px;color:#000000;}
+a.link:visited{text-decoration:none;font-family:"Trebuchet MS";font-size:14px;color:#000000;}
+a.link:hover{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:#FFFFFF;}
+
+.msg
+{
+	font-family:"Segoe UI";
+	font-size:14px;
+	color:#FF3;
+}
+.button{ align-items: center; background-clip: padding-box; background-color: #fa6400; border: 1px solid transparent; border-radius: 1.25rem; box-shadow: rgba(0, 0, 0, 1.02) 0 1px 3px 0; box-sizing: border-box; color: #fff; cursor: pointer; display: inline-flex; font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 16px; font-weight: 600; justify-content: center; line-height: 1; margin: 0; min-height: 2rem; padding: calc(.875rem - 1px) calc(1.5rem - 1px); position: relative; text-decoration: none; transition: all 250ms; user-select: none; -webkit-user-select: none; touch-action: manipulation; vertical-align: baseline; width: auto; } .button-5:hover, .button-5:focus { background-color: #fb8332; box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px; } .button-5:hover { transform: translateY(-1px); } .button-5:active { background-color: #c85000; box-shadow: rgba(0, 0, 0, .06) 0 2px 4px; transform: translateY(0); }
+
+a.cmd:link{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:#000000;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:active{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:#000000;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:visited{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:#000000;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:hover{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:#FFFFFF;padding:5px 6px;background-color:transparent;border:1px solid #066;box-shadow:0px 0px 10px #066;}
+
