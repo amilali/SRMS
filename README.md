@@ -12,7 +12,7 @@ The software exhibits some effortlessness in solving, adjusting, and eradicating
 
 
 
-## WEB TECHNOLOGIES : HTML, CSS, JavaScript, PHP and MySQL.
+## WEB TECHNOLOGIES : MongoDB, Express.js, React, and Node.js.
 
 ### DASHBOARD
 ![dashboard](https://user-images.githubusercontent.com/66510886/180639989-6eac980d-a4cc-4a5f-a144-153058a863ba.png)
